@@ -1,16 +1,15 @@
-## Hi there 👋
+# Денис Евсин — ML/AI Engineer
 
-<!--
-**evsndnis/evsndnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю LLM-агентов, RAG и CV-пайплайны и довожу их до production.
+4+ года в ML: LLM-сервисы для партнёров (S7 Airlines, ВСК), кредитный скоринг, CV для спутниковых снимков.
 
-Here are some ideas to get you started:
+**Стек:** Python · LangGraph · LangChain · FastAPI · vLLM · Triton · Qdrant · Elasticsearch · PyTorch · Docker · Kubernetes · Langfuse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+| Проект | Что внутри |
+|---|---|
+| [rag-agent](https://github.com/evsndnis/rag-agent) | ReAct-агент на LangGraph с RAG, Python-песочницей и веб-поиском; guardrails, оценка через RAGAS, CI/CD |
+| [speaker_verification](https://github.com/evsndnis/speaker_verification) | Верификация диктора по зашумлённому аудио: ECAPA-TDNN, калибровка уверенности, EER 3.23% |
+
+📫 Telegram: [@denis_evsin](https://t.me/denis_evsin) · dns.evsin@gmail.com
