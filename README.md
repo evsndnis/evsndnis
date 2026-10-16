@@ -1,7 +1,7 @@
 # Денис Евсин — ML/AI Engineer
 
 Разрабатываю LLM-агентов, RAG и CV-пайплайны и довожу их до production.
-4+ года в ML: LLM-сервисы для партнёров (S7 Airlines, ВСК), кредитный скоринг, CV для спутниковых снимков.
+4+ года в ML: LLM-сервисы, кредитный скоринг, CV.
 
 **Стек:** Python · LangGraph · LangChain · FastAPI · vLLM · Triton · Qdrant · Elasticsearch · PyTorch · Docker · Kubernetes · Langfuse
 
